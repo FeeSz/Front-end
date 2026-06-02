@@ -1,6 +1,3 @@
-Certamente. Vou explicar detalhadamente cada uma das nomenclaturas mencionadas e fornecer exemplos de utilização.
-
-
 
 ```html
 <!DOCTYPE html>
@@ -126,5 +123,3 @@ Agora, vou explicar detalhadamente cada uma das nomenclaturas utilizadas no exem
 14. `.full-bleed-container`: Cria um container que se estende além dos limites do conteúdo principal, ocupando toda a largura da tela.
 
 Estas nomenclaturas oferecem uma estrutura clara e semântica para o layout da página, facilitando a organização do código e a aplicação de estilos. Elas são flexíveis e podem ser adaptadas conforme as necessidades específicas do projeto.
-
-Gostaria que eu explicasse mais algum aspecto específico ou fornecesse mais exemplos de uso?
